@@ -33,7 +33,10 @@ The bbulleted list below describes the balanced accuracy score and the precision
 
 ### III. ClusterCentroids Model
 
+![Undersampling](https://user-images.githubusercontent.com/73450637/108589715-ba39ba00-732d-11eb-9ce3-3c48ef05f63d.png)
 
 ### IV. SMOTEENN Model / Combination (Over and Under) Sampling
+
+
 ### V. BalancedRandomForestClassifier Model
 ### VI. EasyEnsembleClassifier Model
