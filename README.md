@@ -37,6 +37,7 @@ The bbulleted list below describes the balanced accuracy score and the precision
 
 ### IV. SMOTEENN Model / Combination (Over and Under) Sampling
 
+![Over and Under](https://user-images.githubusercontent.com/73450637/108589712-b4dc6f80-732d-11eb-8181-19ad700cc395.png)
 
 ### V. BalancedRandomForestClassifier Model
 ### VI. EasyEnsembleClassifier Model
