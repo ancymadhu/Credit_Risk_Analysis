@@ -12,3 +12,19 @@ We adopted the following procedure:
 * Compare two machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier.
 
 We will evaluate the performance of these models and make a recommendation on whether they should be used to predict credit risk.
+
+## Resources
+
+* Data Source: LoanStats_2019Q1.csv
+* Software: Python 3.7.9, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3
+
+## Results
+
+The bbulleted list below describes the balanced accuracy score and the precision and recall scores of all six machine learning models used in this analysis.
+
+### I. RandomOverSampler Model
+### II. SMOTE Model
+### III. ClusterCentroids Model
+### IV. SMOTEENN Model / Combination (Over and Under) Sampling
+### V. BalancedRandomForestClassifier Model
+### VI. EasyEnsembleClassifier Model
