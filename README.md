@@ -40,4 +40,6 @@ The bbulleted list below describes the balanced accuracy score and the precision
 ![Over and Under](https://user-images.githubusercontent.com/73450637/108589712-b4dc6f80-732d-11eb-8181-19ad700cc395.png)
 
 ### V. BalancedRandomForestClassifier Model
+
+![Balanced Random Classifier](https://user-images.githubusercontent.com/73450637/108589703-ad1ccb00-732d-11eb-9070-7177e32b2714.png)
 ### VI. EasyEnsembleClassifier Model
