@@ -81,4 +81,9 @@ The bulleted list below describes the balanced accuracy score and the precision 
 | --- | --- |
 | Balanced Accuracy Score | 92.54% |
 | Precision Score | High risk has low poitivity of 7% |
-| Recall Score | For high risk it is 97% |
+| Recall Score | For high risk it is 91% |
+
+## Summary
+
+`
+The first four sampling models have comparatively low accuracy score compared to the last two classifier models that we used. The sampling models had an accuracy in 60's range while the classifer models had accuracy levels of 78.77 and 92.54 percetanges each. Typically in our models we want a good balance of recall and precision which is why I recommend the ensemble classifiers over the first four models. It appears that the Easy Ensemble had the best balance of all the models because of it's high accuracy score and good balance of precision and recall scores.
