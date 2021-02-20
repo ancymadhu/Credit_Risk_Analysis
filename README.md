@@ -23,7 +23,13 @@ We will evaluate the performance of these models and make a recommendation on wh
 The bbulleted list below describes the balanced accuracy score and the precision and recall scores of all six machine learning models used in this analysis.
 
 ### I. RandomOverSampler Model
+
+![Naive Random](https://user-images.githubusercontent.com/73450637/108589699-a7bf8080-732d-11eb-9bdf-dc030f77a656.png)
+
+
 ### II. SMOTE Model
+
+
 ### III. ClusterCentroids Model
 ### IV. SMOTEENN Model / Combination (Over and Under) Sampling
 ### V. BalancedRandomForestClassifier Model
