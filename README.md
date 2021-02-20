@@ -42,4 +42,7 @@ The bbulleted list below describes the balanced accuracy score and the precision
 ### V. BalancedRandomForestClassifier Model
 
 ![Balanced Random Classifier](https://user-images.githubusercontent.com/73450637/108589703-ad1ccb00-732d-11eb-9070-7177e32b2714.png)
+
 ### VI. EasyEnsembleClassifier Model
+
+![Easy Ensemble  D3, b](https://user-images.githubusercontent.com/73450637/108589711-b148e880-732d-11eb-9103-dee8b2a02783.png)
