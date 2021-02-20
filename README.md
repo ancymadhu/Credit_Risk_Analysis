@@ -29,8 +29,11 @@ The bbulleted list below describes the balanced accuracy score and the precision
 
 ### II. SMOTE Model
 
+![Smote Oversampling](https://user-images.githubusercontent.com/73450637/108589713-b6a63300-732d-11eb-8f3f-acdec92d975d.png)
 
 ### III. ClusterCentroids Model
+
+
 ### IV. SMOTEENN Model / Combination (Over and Under) Sampling
 ### V. BalancedRandomForestClassifier Model
 ### VI. EasyEnsembleClassifier Model
