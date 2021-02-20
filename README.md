@@ -30,25 +30,55 @@ The bulleted list below describes the balanced accuracy score and the precision 
 | --- | --- |
 | Balanced Accuracy Score | 64.61% |
 | Precision Score | High risk has low poitivity of just 1% |
-| Recall Score | For high accuracy it is 63% |
+| Recall Score | For high risk it is 63% |
 
 
 ### II. SMOTE Model
 
 ![Smote Oversampling](https://user-images.githubusercontent.com/73450637/108589713-b6a63300-732d-11eb-8f3f-acdec92d975d.png)
 
+| Quantities | Values |
+| --- | --- |
+| Balanced Accuracy Score | 62.88% |
+| Precision Score | High risk has low poitivity of just 1% |
+| Recall Score | For high risk it is 60% |
+
 ### III. ClusterCentroids Model
 
 ![Undersampling](https://user-images.githubusercontent.com/73450637/108589715-ba39ba00-732d-11eb-9ce3-3c48ef05f63d.png)
+
+| Quantities | Values |
+| --- | --- |
+| Balanced Accuracy Score | 51.59% |
+| Precision Score | High risk has low poitivity of just 1% |
+| Recall Score | For high risk it is 60% |
 
 ### IV. SMOTEENN Model / Combination (Over and Under) Sampling
 
 ![Over and Under](https://user-images.githubusercontent.com/73450637/108589712-b4dc6f80-732d-11eb-8181-19ad700cc395.png)
 
+| Quantities | Values |
+| --- | --- |
+| Balanced Accuracy Score | 62.91% |
+| Precision Score | High risk has low poitivity of just 1% |
+| Recall Score | For high risk it is 72% |
+
 ### V. BalancedRandomForestClassifier Model
 
 ![Balanced Random Classifier](https://user-images.githubusercontent.com/73450637/108589703-ad1ccb00-732d-11eb-9070-7177e32b2714.png)
 
+| Quantities | Values |
+| --- | --- |
+| Balanced Accuracy Score | 78.77% |
+| Precision Score | High risk has low poitivity of 4% |
+| Recall Score | For high risk it is 67% |
+
 ### VI. EasyEnsembleClassifier Model
 
 ![Easy Ensemble  D3, b](https://user-images.githubusercontent.com/73450637/108589711-b148e880-732d-11eb-9103-dee8b2a02783.png)
+
+| Quantities | Values |
+| --- | --- |
+| Balanced Accuracy Score | 92.54% |
+| Precision Score | High risk has low poitivity of 7% |
+| Recall Score | For high risk it is 97% |
